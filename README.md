@@ -1,4 +1,4 @@
-## Hi there 👋
+[![anonym-g's GitHub stats](https://github-readme-stats.vercel.app/api?username=anonym-g)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **anonym-g/anonym-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
